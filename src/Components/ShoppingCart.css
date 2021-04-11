@@ -1,0 +1,180 @@
+*
+{
+  margin: 0px;
+  padding:0%;
+  box-sizing:border-box;
+
+}
+.top
+{
+  background-color: #b00020;
+  height: 70px;
+}
+
+.top img
+{
+background-color: #b00020;
+  position:absolute;
+  left: 10px;
+  top: 6px;
+  width:60px;
+  height:60px;
+}
+
+
+
+.btm {
+	background-color:#000000;
+	border-radius:8px;
+
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:10px;
+	font-weight:bold;
+	padding:30px 0px;
+	text-decoration:none;
+    width: 140px;
+    height: 10px ;
+    margin-top: 27px ;
+    margin-left: 34px;
+    position: relative;
+    text-align: center;
+
+}
+.btmtext{
+    margin: auto;
+}
+.btm:hover {
+	background-color:#000000ce;
+}
+.btm:active {
+	position:relative;
+	top:1px;
+}
+
+.flexcont {
+    display: flex;
+    margin: 20px;
+}
+.shoppingcart {
+    flex:3;
+    margin-right: 20px;
+    width: 300px;
+    padding: 20px;
+
+
+}
+
+.inputdetails{
+    margin: 20px 0px;
+}
+
+ .inputdetails input{
+    height: 45px;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid black;
+    background-color: #c4c4c4;
+
+}
+
+.contactdetails {
+    flex:1;
+    background-color: #c4c4c4;
+    width: 200px;
+    height: 600px;
+    padding: 20px 30px 20px 20px;
+    border-radius: 10px;
+
+
+
+}
+.submitbtn{
+    display: inline-block;
+    margin:auto;
+    height: 20px;
+}
+.submitbtn input{
+    width: 80%;
+    height: 40px;
+}
+
+.placeorder{
+    width: 60%;
+    height: 45px;
+    position: relative;
+    top: 150px;
+    left: 70px;
+    background-color: #b00020;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.cols{
+    display: flex;
+    margin: 20px 0px;
+}
+.items{
+    flex:3;
+}
+.quantity{
+    flex:1;
+}
+.price{
+    flex:1;
+}
+.total{
+    flex:1;
+}
+p{
+    font-size: 18px;
+    font-weight: 600;
+}
+.contactdetails h3{
+    font-size: 22px;
+    margin-bottom: 50px;
+}
+.shoppingcart h3{
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+.rowsofitems{
+    display: flex;
+}
+.rowsofitems p{
+    font-size: 16px;
+    margin: 30px 0px;
+    font-weight: normal;
+}
+.quantitybtn{
+    top:10px;
+    width:5px;
+    height:50px ;
+    flex:1;
+    display: flex;
+}
+.addbtn{
+    background-color: #ffffff;
+    border: none;
+    height: 24px;
+    position: relative;
+
+
+}
+.borderRem{
+    border: 3px solid black;
+    position: relative;
+    height: 27px;
+    font-size: 20px;
+    
+}
+
+.subtotal{
+    margin: 20px 60%;
+}
+
+
+

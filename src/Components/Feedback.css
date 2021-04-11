@@ -1,0 +1,165 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i');
+.page {
+	overflow:hidden;
+	background-color:#FFFFFF;
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.head {
+	box-shadow:0px 3px 3px #000000;
+	background-color:#B00020;
+	width:1440px;
+	height:100px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border:1px solid #B00020;
+}
+
+	
+
+.feedbackbg {
+	background-color:#E2E2E2;
+	width:806px;
+	height:760px;
+	position:absolute;
+	left:318px;
+	top:222px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+}
+.feedbackbg2 {
+	position: absolute;
+	width: 806px;
+	height: 155px;
+	left: 317px;
+	top: 222px;
+
+	background: #B00020;
+	border-radius: 20px 20px 0px 0px;
+
+
+}
+.feedbacktext {
+
+	position: absolute;
+	width: 178px;
+	height: 45.65px;
+	left: 631px;
+	top: 276px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 42px;
+	display: flex;
+	align-items: center;
+	-webkit-text-stroke: 2px black;
+	color: #FFFFFF;
+
+
+}
+
+
+.fbname {
+	background-color:#FFFFFF;
+	width:638px;
+	height:60px;
+	position:absolute;
+	left:380px;
+	top:440px;
+	border-radius: 10px;
+}
+
+.fbdescription {
+	position:absolute;
+	left:380px;
+	top:544px;
+	border-radius: 10px;
+	background-color:#FFFFFF;
+}
+
+.rating {
+	width:203px;
+	height:38px;
+	position:absolute;
+	left:400px;
+	top:806px;
+}
+
+
+
+
+.logoarea {
+	width:161px;
+	height:162px;
+	position:absolute;
+	left:640px;
+	top:19px;
+}
+.logorect {
+	border-radius:500px;
+	background-color:#B00020;
+	width:161px;
+	height:162px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.logo {
+	width:119px;
+	height:120px;
+	position:absolute;
+	left:21px;
+	top:20px;
+	background-image:url(logo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.sf {
+	width:222px;
+	height:49px;
+	position:absolute;
+	left:817px;
+	top:853px;
+}
+.sf_button{
+	background-color:#B00020;
+	width:222px;
+	height:49px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+
+.backtomenu{
+	width:252px;
+	height:47px;
+	position:absolute;
+	left:21px;
+	top:123px;
+	overflow: visible;
+}
+.backtomenubutton {
+	background-color: #555555;
+	width:252px;
+	height:47px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+
+  
