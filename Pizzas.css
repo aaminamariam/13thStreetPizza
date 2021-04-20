@@ -1,0 +1,161 @@
+.squareone {
+  height: 350px;
+  width: 300px;
+  background-color: #E2E2E2;
+  position: absolute;
+  left: 15px;
+  top: 120px;
+}
+.squaretwo {
+  height: 350px;
+  width: 300px;
+  background-color: #E2E2E2;
+  position: absolute;
+  left: 350px;
+  top: 120px;
+}
+.squarethree {
+  height: 350px;
+  width: 300px;
+  background-color: #E2E2E2;
+  position: absolute;
+  left: 680px;
+  top: 120px;
+}
+.squarefour {
+  height: 350px;
+  width: 300px;
+  background-color: #E2E2E2;
+  position: absolute;
+  left: 15px;
+  top: 500px;
+}
+.squarefive {
+  height: 350px;
+  width: 300px;
+  background-color: #E2E2E2;
+  position: absolute;
+  left: 350px;
+  top: 500px;
+}
+.squaresix{
+  height: 350px;
+  width: 300px;
+  background-color: #E2E2E2;
+  position: absolute;
+  left: 680px;
+  top: 500px;
+}
+
+figure img {
+  position:relative;
+  right: -9px;
+  top: 10px;
+  width: 250px;
+  height: 200px;
+}
+
+figure figcaption1 {
+  position: absolute;
+  left: 75px;
+  top: 220px;
+  
+}
+figure figcaption2 {
+  position: relative;
+  left: 35px;
+  top: 45px;
+  
+}
+figure figcaption3 {
+  position: relative;
+  left: 85px;
+  top: 55px;
+  
+}
+  /*********************************************button*************************/
+  .button {
+    border: none;
+    color: white;
+    text-align: center;
+    font-weight:bold;
+    font-size: 10px;
+    cursor: pointer;
+  }
+  
+  .active {
+    background-color: #B00020;
+  }
+  
+  .menu {
+    background-color: #000000;
+  }
+  .deals {
+    background-color: #000000;
+  }
+  
+  .Sides {
+    background-color: #000000;
+  }
+  
+  .add_to_cart {
+    background-color: #B00020;
+    border-radius: 10%;
+  }
+  .shopping_cart
+{
+  background-size: 100%;
+  background-color: #ffffff;
+  border: none;
+  width: 2.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left:270px;
+  top: 65px;
+  transform: translateY(-50%) translateX(-50%);
+  font-weight: bold;
+  font-size: 2em;
+  color: white;
+  left: 97%;
+  border-radius: 50%;
+
+}
+  button:focus {
+    outline: none;
+  }
+  .shopping_cart img{
+    width: 2.5rem;
+    height: 2.5rem;
+   position :relative;
+   right:10px;
+  
+   bottom:10px;
+  
+  }
+  .chat {
+    background-color: #B00020;
+    position: absolute;
+    border-radius: 12.5px;
+    width:9%;
+    height:6%;
+    left: 1080px;
+    top: 800px;
+  }
+  .bottom img{
+    position: absolute;
+    width: 169px;
+    height: 44px;
+    left: 1161px;
+    top: 922px;
+  
+  }
+  .chat_btn
+  {
+    position :relative;
+    left: 1161px;
+    top: 750px;
+    font-weight:bold;
+    background-image:url(chaticon.png);
+
+
+  }
