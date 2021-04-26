@@ -1,6 +1,6 @@
 # 13thStreetPizza
-[![Generic badge](https://img.shields.io/badge/Contributors-5-<green>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/made with-5-<react.js>.svg)](https://https://reactjs.org/)
+[![Generic badge](https://img.shields.io/badge/Contributors-5-<green>.svg)](https://shields.io/)<br>
+<Badge data={["npm", "v1.0.0"]} />
 
 CS 360 Software engineering  group project <br>
 Mohammad Yousuf, Aamina Mariam,Sabahat Kashif,Muzummil Khan <br>
