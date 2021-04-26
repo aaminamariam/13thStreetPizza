@@ -1,0 +1,194 @@
+*
+{
+  margin: 0px;
+  padding:0%;
+  box-sizing:border-box;
+
+}
+
+.grey
+{
+  color: #000000;
+  background-color: #E2E2E2;
+  height: 610px;
+  width: 900px;
+  position: absolute;
+  left: 10px;
+  top: 140px;
+}
+.deal1
+{
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  height:500px;
+  width: 540px;
+
+}
+
+.deal2 {
+  position: absolute;
+  top: 22px;
+  left: 580px;
+  height:200px;
+  width: 300px;
+ 
+
+}
+
+
+.deal3 {
+  position: absolute;
+  top: 316px;
+  left: 580px;
+  height:200px;
+  width: 300px;
+}
+
+.text1 {
+  position: absolute;
+  left: 260px;
+  top: 530px;
+}
+
+.text2 {
+  position: absolute;
+  left: 680px;
+  top:230px;
+}
+
+.text3 {
+  position: absolute;
+  left: 680px;
+  top:530px;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 9px 10px;
+    text-align: center;
+    font-size: 10px;
+    cursor: pointer;
+  }
+.add_to_cart {
+    background-color: #B00020;
+    border-radius: 10%;
+
+  }
+  .feedback {
+    background-color: #000000;
+    border-radius: 12.5px;
+    width: 85px;
+    position: absolute;
+    left: 450px;
+    top: 770px;
+  }
+  .top
+{
+  background-color: #b00020;
+  height: 70px;
+}
+
+.top img
+{
+background-color: #b00020;
+  position:absolute;
+  left: 10px;
+  top: 6px;
+  width:60px;
+  height:60px;
+}
+.black
+ {
+  background-color: #000000;
+  height: 29px;
+  width:100%;
+  position:absolute;
+  top:70px;
+}
+
+  
+  .active {
+    background-color: #B00020;
+  }
+  
+  .menu {
+    background-color: #000000;
+  }
+  .deals {
+    background-color: #000000;
+  }
+  
+  .sides {
+    background-color: #000000;
+  }
+  .add_to_cart {
+    background-color: #B00020;
+    border-radius: 10%;
+  }
+ 
+  .shopping_cart
+{
+  background-size: 100%;
+  background-color: #ffffff;
+  border: none;
+  width: 2.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left:270px;
+  top: 65px;
+  transform: translateY(-50%) translateX(-50%);
+  font-weight: bold;
+  font-size: 2em;
+  color: white;
+  left: 97%;
+  border-radius: 50%;
+
+}
+button:focus {
+  outline: none;
+}
+.shopping_cart img{
+  width: 2.5rem;
+  height: 2.5rem;
+ position :relative;
+ right:10px;
+ bottom:10px;
+
+}
+
+
+.chat {
+  background-color: #B00020;
+  position: absolute;
+  border-radius: 12.5px;
+  width:9%;
+  height:6%;
+  left: 1080px;
+  top: 1000px;
+}
+.bottom img{
+  width: 2.5rem;
+  height: 1.5rem;
+ position :absolute;
+ left:4px;
+ top:8px;
+
+}
+.show
+  { 
+    border-radius: 12.5px;
+    width: 910px;
+    text-align: center;
+    position: absolute;
+    left: 10px;
+    top: 890px;
+    color: white;
+    margin: 4px, 4px; 
+    padding: 4px; 
+    background-color:#E2E2E2; 
+         
+    overflow: auto; 
+    white-space: nowrap; 
+
+  }

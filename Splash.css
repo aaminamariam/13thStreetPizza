@@ -1,0 +1,17 @@
+.splash{
+
+    background-color: #b00020;
+    height: 100%;
+    position: absolute;
+    width: 100%;  
+    display:flex;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: center;
+    
+  }
+  .splash img
+  {
+    width: 100px;
+    height: 100px;
+  }

@@ -1,0 +1,94 @@
+.top
+{
+  background-color: #b00020;
+  height: 70px;
+}
+
+.black
+ {
+  background-color: #000000;
+  height: 35.5px;
+  width: 100%;
+  top:70px;
+  bottom: 10px;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 9px 10px;
+  text-align: center;
+  font-size: 15px;
+  cursor: pointer;
+}
+  
+.active {
+  background-color: #B00020;
+  color: white;
+}
+
+.top img
+{
+background-color: #b00020;
+  position:absolute;
+  left: 10px;
+  top: 6px;
+  width:60px;
+  height:60px;
+}
+
+h1{
+    font-size: 22px;
+    margin: 2%;
+}
+
+.maindiv{
+    margin: 3% 8%;
+
+}
+.header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.orderid{
+    flex:1;
+    margin:2% 2%;
+}
+.customerid{
+    flex:1;
+    margin:2% 2%;
+}
+.productname{
+    flex:2;
+    margin:2% 2%;
+}
+.size{
+    flex:1;
+    margin:2% 2%;
+}
+.quantity{
+    flex:1;
+    margin:2% 2%;
+}
+.orderstatus{
+    flex:1;
+    margin:2% 2%;
+}
+.order{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+.order p{
+    background-color: #e2e2e2;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: normal;
+}
+.switch{
+    flex:1;
+    margin:2.5% 2% 2% 2%;
+}

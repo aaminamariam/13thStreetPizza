@@ -1,0 +1,91 @@
+*{
+  font-family: 'Roboto' , sans-serif !important;;
+}
+
+.btn{
+margin: 5px;
+padding: 5px;
+  float: right;
+  border-radius: 5px;
+  background-color: #b00020;
+color: White;
+
+}
+
+
+.top img
+{
+  position:absolute;
+  left: 10px;
+  top: 6px;
+  width:60px;
+  height:60px;
+}
+.black
+ {
+  background-color: #000000;
+  height: 40px;
+  width: 100%;
+  top:70px;
+  bottom: 10px;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 9px 10px;
+  text-align: center;
+  font-size: 10px;
+  cursor: pointer;
+}
+  
+.active {
+  background-color: #B00020;
+  color: white;
+}
+
+.oh {
+  background-color: #000000;
+  color: white;
+}
+.logout{
+
+  float: right;
+  top: 5px;
+  background-color: #b00020;
+  color: white;
+}
+
+  .top{
+    background: #b00020;
+    height: 70px;
+    width: 100%;
+  }
+  .column {
+    float: left;
+    width: 10%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+.card {
+border-radius: 5px;
+padding: 1px;
+margin: 5px;
+align-self: center;
+height: 40px;
+justify-content: center;
+width: 75%;
+background-color: #e2e2e2;
+
+
+}
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+

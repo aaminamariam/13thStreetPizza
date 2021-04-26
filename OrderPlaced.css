@@ -1,0 +1,47 @@
+*
+{
+  margin: 0px;
+  padding:0%;
+  box-sizing:border-box;
+
+}
+.top
+{
+  background-color: #b00020;
+  height: 70px;
+}
+
+.top img
+{
+background-color: #b00020;
+  position:absolute;
+  left: 10px;
+  top: 6px;
+  width:60px;
+  height:60px;
+}
+
+.btm {
+	background-color:#000000;
+	border-radius:10px;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:11px;
+    font-weight: bold;
+	padding:15px 19px 23px;
+    margin: 27px 0 0 34px;
+}
+.btm:hover {
+	background-color:#000000c6;
+}
+.btm:active {
+	position:relative;
+	top:1px;
+}
+.op{
+    display: block;
+    margin:0 auto;
+    position: relative;
+    top: 65px;
+}
